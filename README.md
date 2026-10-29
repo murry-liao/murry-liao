@@ -52,9 +52,9 @@ I am also interested in stochastic dynamics, master equations, and reduced-basis
 [View all publications →](https://murry-liao.github.io/file_publication/)
 
 ## Code
-- [CCFULL_OnlineWebsite] (https://github.com/murry-liao/CCFULL-onlineWebsite)
+- [CCFULL_OnlineWebsite](https://github.com/murry-liao/CCFULL-onlineWebsite)
 - [CCFULL reduced-basis emulator](https://github.com/murry-liao/CCFULL_ReduceBasisMethod_Emulator)
-- [CCFULL implementations](https://github.com/murry-liao/CCFULL_progame)
+- [CCFULL NumericalMethod](https://github.com/murry-liao/CCFULL_progame)
 
 ## Contact
 
